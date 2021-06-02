@@ -1,0 +1,49 @@
+#barra {
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+}
+    body {
+        margin: 0;
+        background-color: blue;
+    }
+
+    #titulo {
+        color:red;
+        font-size: 80px;
+    }
+    #parrafo {
+        background-color:blue;
+        width: 1500px;
+        height: 1500px;
+        color: red;
+        font-size: 80px;
+        display: flex;
+        flex-direction: column;
+    }
+    #caja {
+        background-color:chartreuse;
+        width: 100%;
+        height: 50px;
+    }
+    #nombre {
+        font-family: 'Satisfy', cursive;
+    }
+  
+    #FOTO_SAMURAI {
+        width: 500px;
+    }
+    #Game {
+        width: 500px;
+        height: 700px;
+    }
+
+    #div_de_foto_samurai {
+        display: flex;
+        justify-content: center;
+    }
+
+    #Gamer {
+        display: flex;
+        justify-content: center; 
+    }
